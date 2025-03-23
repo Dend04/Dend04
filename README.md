@@ -2,6 +2,7 @@
   Hi there 
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
   I'm Dend04
+  <img src=https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif>
 </h1>
 
 <p align="center">
