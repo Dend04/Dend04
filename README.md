@@ -67,15 +67,6 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dend04&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dend04&layout=compact&theme=radical" width="350">
-</p>
-
----
-
 ### 🔍 What I Bring to Projects
 
 💡 **Technical Strengths:**  
