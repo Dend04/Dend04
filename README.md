@@ -4,78 +4,95 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;API+Architecture+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f353736396663343031303633363831643239373436393534313634393038333832313539343536303633632f313534313538303231313632342d5445363451474b524a47385357454955512e676966" alt="coding" width="400"/>
+  <img src="https://i.pinimg.com/originals/81/17/2b/81172b3bfb4da5c5f0e53b7f779d7d6e.gif" alt="coding" width="400"/>
 </p>
 
 ---
 
-### 👨💻 About Me
+### 🎓 Academic Background
 
-🎯 **Focus:**  
-✔ Building scalable web applications  
-✔ Clean architecture enthusiast  
-✔ Open source contributor  
-✔ Continuous learner  
+**Currently pursuing:**  
+📚 B.Sc. in Computer Engineering
+🏫 [Universidad de Sancti Spíritus José Martí Pérez ]  
 
-💡 **What I offer:**  
-✅ Full-cycle web development  
-✅ API design & development  
-✅ Database optimization  
-✅ Performance tuning  
-✅ Modern JavaScript solutions  
+**Key Academic Skills:**  
+✔ Systems programming fundamentals (Queues, Scheduling)  
+✔ Database design & optimization  
+✔ Signal processing concepts  
+✔ OOP & software architecture  
 
 ---
 
 ### 🛠 Tech Stack
 
-#### **Frontend & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### **Core Development**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-
-#### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastify&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### **Tools & Practices**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **DevOps & Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=testcafe&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Academic Projects
+
+#### API Development Track
+🔹 **RESTful Microservices** (Node + TypeScript)  
+📌 JWT Authentication System  
+📌 E-commerce Backend Architecture  
+📌 Real-time Notification Service  
+
+#### Database Design
+🔹 **University Management System** (PostgreSQL)  
+📌 Normalized relational schema  
+📌 Complex query optimization  
+📌 Role-based access control  
+
+#### Systems Programming
+🔹 **Queue Simulation** (C#/.NET)  
+📌 Multi-threaded processing  
+📌 Priority queue implementation  
+📌 Performance benchmarking  
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dend04&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dend04&layout=compact&theme=radical" width="350">
 </p>
 
 ---
 
-### 📝 Profile Questionnaire (Edita esto)
+### 🔍 What I Bring to Projects
 
-**What I build:**  
-"Modern web applications focusing on performance and user experience"
+💡 **Technical Strengths:**  
+✅ Clean architecture implementation  
+✅ API contract design  
+✅ Database schema optimization  
+✅ Academic-to-real-world translation  
 
-**My development approach:**  
-"Clean code advocate with emphasis on maintainable architecture"
-
-**Current focus:**  
-"Contributing to OSS projects and mastering advanced TypeScript patterns"
-
-**Collaboration style:**  
-"Agile methodology enthusiast with strong communication skills"
+🔬 **Research Interests:**  
+📈 Signal processing applications  
+⚙️ Systems performance analysis  
+📊 Data-driven architecture decisions  
 
 ---
 
-### 🤝 Let's Connect
+### 📫 Let's Discuss Tech!
 
 <p align="center">
   <a href="https://linkedin.com/in/tuperfil">
@@ -88,18 +105,3 @@
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
-
-<!--
-**Dend04/Dend04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
