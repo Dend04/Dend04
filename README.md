@@ -1,6 +1,6 @@
 <h1 align="center"> 
   Hi there 👋 I'm Dend04
-  <img src="https://github.com/Anne46/Anne46/raw/main/wave.gif" width="30px" height="30px">
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
 
 <p align="center">
