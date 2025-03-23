@@ -22,7 +22,6 @@
 **Key Academic Skills:**  
 ✔ Systems programming fundamentals (Queues, Scheduling)  
 ✔ Database design & optimization  
-✔ Signal processing concepts  
 ✔ OOP & software architecture  
 
 ---
@@ -95,13 +94,10 @@
 ### 📫 Let's Discuss Tech!
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuperfil">
+  <a href="https://www.linkedin.com/in/dairon-enamorado-bringuez-321361279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="enamoradodairon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://tuportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
